@@ -9,9 +9,11 @@
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
     "d3": "^5.11.0",
+    "d3-geo": "^1.11.6",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
+    "topojson": "^3.0.2",
     "typescript": "3.6.2"
   },
   "scripts": {
